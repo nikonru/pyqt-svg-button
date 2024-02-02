@@ -1,1 +1,1 @@
-pyqt-svg-abstractbutton>=0.0.1
+git+https://github.com/nikonru/pyqt-svg-abstractbutton
